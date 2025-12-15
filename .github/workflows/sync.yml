@@ -1,0 +1,38 @@
+name: Build mini feed (top 20)
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # кожні 6 годин
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests lxml
+
+      - name: Run sync
+        env:
+          FEED_URL: "https://leatherman-ua.shop/cache/leatherman_google_merchant_ua.xml"
+          LIMIT_ITEMS: "20"
+          OUT_FEED: "feed.xml"
+        run: python sync_feed.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "Update mini feed" || echo "No changes"
+          git push
