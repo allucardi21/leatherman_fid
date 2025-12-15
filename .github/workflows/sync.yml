@@ -1,4 +1,4 @@
-name: Build mini feed (top 20)
+name: Sync mini feed (top 20) + mirror images to GitHub Pages
 
 on:
   schedule:
@@ -8,31 +8,43 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sync-feed
+  cancel-in-progress: true
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install requests lxml
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests lxml
 
-      - name: Run sync
+      - name: Run sync script
         env:
           FEED_URL: "https://leatherman-ua.shop/cache/leatherman_google_merchant_ua.xml"
           LIMIT_ITEMS: "20"
           OUT_FEED: "feed.xml"
+          PAGES_BASE: "https://allucardi21.github.io/leatherman_fid"
         run: python sync_feed.py
 
-      - name: Commit & push
+      - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
-          git commit -m "Update mini feed" || echo "No changes"
+
+          git add feed.xml images
+
+          git status --porcelain
+          git commit -m "Update mini feed + mirrored images" || echo "No changes to commit"
+
           git push
