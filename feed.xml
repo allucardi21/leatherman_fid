@@ -373,47 +373,6 @@
 			</g:shipping>
 		</item>
 		<item>
-			<g:id>22972</g:id>
-			<g:title>Мультитул Leatherman Signal Aqua (832733)</g:title>
-			<g:description>Мультитул Leatherman Signal – універсальний інструмент для поціновувачів подорожей</g:description>
-			<g:link>https://ua.leatherman-ua.shop/item/multitul-leatherman-signal-aqua-832733-22972</g:link>
-			<g:image_link>https://allucardi21.github.io/leatherman_fid/images/92a7ff8477f83b40.jpg</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:product_type>Мультитули &gt;</g:product_type>
-			<g:price>8008.00 UAH</g:price>
-			<g:sale_price/>
-			<g:brand>Leatherman</g:brand>
-			<g:mpn>832733</g:mpn>
-			<g:google_product_category>Мультиінструмент</g:google_product_category>
-			<google_product_category>Мультиінструмент</google_product_category>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>Кур'єром (по Києву)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>"Нова пошта" по Україні (передоплата)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>"Нова пошта" по Україні (накладений платіж)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>"Укрпошта" по Україні (передоплата)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>Самовивіз (Київ)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-		</item>
-		<item>
 			<g:id>22975</g:id>
 			<g:title>Мультитул Leatherman Signal (832265)</g:title>
 			<g:description>Мультитул Leatherman Signal – універсальний інструмент для поціновувачів подорожей</g:description>
@@ -795,6 +754,47 @@
 			<g:sale_price/>
 			<g:brand>Leatherman</g:brand>
 			<g:mpn>832638</g:mpn>
+			<g:google_product_category>Мультиінструмент</g:google_product_category>
+			<google_product_category>Мультиінструмент</google_product_category>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>Кур'єром (по Києву)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>"Нова пошта" по Україні (передоплата)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>"Нова пошта" по Україні (накладений платіж)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>"Укрпошта" по Україні (передоплата)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>Самовивіз (Київ)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>22690</g:id>
+			<g:title>Мультитул Leatherman Curl (832932)</g:title>
+			<g:description>Надійний, багатофункціональний інструмент з відмінним співвідношенням ціни та якості. Повнорозмірний багатофункціональний інструмент підійде для походів, риболовлі або як надійний інструмент в майстерні. Multitool Curl заснований на надзвичайно популярній моделі Wave та пропонує до 15 інструментів. Приваблива ціна та цікавий зовнішній вигляд роблять його чудовою ідеєю для подарунка.</g:description>
+			<g:link>https://ua.leatherman-ua.shop/item/multitul-leatherman-curl-832932-22690</g:link>
+			<g:image_link>https://allucardi21.github.io/leatherman_fid/images/ade40f88c8527d70.jpg</g:image_link>
+			<g:condition>new</g:condition>
+			<g:availability>in stock</g:availability>
+			<g:product_type>Мультитули &gt;</g:product_type>
+			<g:price>5456.00 UAH</g:price>
+			<g:sale_price/>
+			<g:brand>Leatherman</g:brand>
+			<g:mpn>832932</g:mpn>
 			<g:google_product_category>Мультиінструмент</g:google_product_category>
 			<google_product_category>Мультиінструмент</google_product_category>
 			<g:shipping>
