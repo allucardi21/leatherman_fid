@@ -496,47 +496,6 @@
 			</g:shipping>
 		</item>
 		<item>
-			<g:id>22965</g:id>
-			<g:title>Мультитул Leatherman Rev (832130)</g:title>
-			<g:description>Знайомтеся — Leatherman Rev. Цей абсолютно новий мультитул дає змогу брати із собою набір інструментів оптимальної функціональності, і використовувати його, хоч де ви перебуватимете: під капотом, у наметовому таборі або вдома.</g:description>
-			<g:link>https://ua.leatherman-ua.shop/item/multitul-leatherman-rev-832130-22965</g:link>
-			<g:image_link>https://allucardi21.github.io/leatherman_fid/images/c6e4ed63157dc064.jpg</g:image_link>
-			<g:condition>new</g:condition>
-			<g:availability>in stock</g:availability>
-			<g:product_type>Мультитули &gt;</g:product_type>
-			<g:price>3036.00 UAH</g:price>
-			<g:sale_price/>
-			<g:brand>Leatherman</g:brand>
-			<g:mpn>832130</g:mpn>
-			<g:google_product_category>Мультиінструмент</g:google_product_category>
-			<google_product_category>Мультиінструмент</google_product_category>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>Кур'єром (по Києву)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>"Нова пошта" по Україні (передоплата)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>"Нова пошта" по Україні (накладений платіж)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>"Укрпошта" по Україні (передоплата)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-			<g:shipping>
-				<g:country>UA</g:country>
-				<g:service>Самовивіз (Київ)</g:service>
-				<g:price>0.00 UAH</g:price>
-			</g:shipping>
-		</item>
-		<item>
 			<g:id>22956</g:id>
 			<g:title>Мультитул Leatherman Rebar Standard (831557)</g:title>
 			<g:description>Leatherman випускає безліч різних інструментів в різноманітній комплектації і розмірах. Деякі серії відрізняються барвистою обробкою, інші мають строгий дизайн, але їх зовнішній вигляд ніяк не позначається на їх функціональності. Одним з найпопулярніших серед повнорозмірних інструментів є Leatherman Rebar (Лазерман Ребар). Цей мультитул є пристроєм вагою трохи менше за 190 г і завдовжки дещо більше 10 см. В таких компактних розмірах розташовані 17 різних інструментів, призначених для використання в домашніх та польових умовах.</g:description>
@@ -795,6 +754,47 @@
 			<g:sale_price/>
 			<g:brand>Leatherman</g:brand>
 			<g:mpn>832932</g:mpn>
+			<g:google_product_category>Мультиінструмент</g:google_product_category>
+			<google_product_category>Мультиінструмент</google_product_category>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>Кур'єром (по Києву)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>"Нова пошта" по Україні (передоплата)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>"Нова пошта" по Україні (накладений платіж)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>"Укрпошта" по Україні (передоплата)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+			<g:shipping>
+				<g:country>UA</g:country>
+				<g:service>Самовивіз (Київ)</g:service>
+				<g:price>0.00 UAH</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>22961</g:id>
+			<g:title>Мультитул Leatherman Rebar Black Чохол (831563)</g:title>
+			<g:description>Leatherman випускає безліч різних інструментів в різноманітній комплектації і розмірах. Деякі серії відрізняються барвистою обробкою, інші мають строгий дизайн, але їх зовнішній вигляд ніяк не позначається на їх функціональності. Одним з найпопулярніших серед повнорозмірних інструментів є Leatherman Rebar (Лазерман Ребар). Цей мультитул є пристроєм вагою трохи менше за 190 г і завдовжки дещо більше 10 см В таких компактних розмірах ув'язнені 17 різних інструментів, призначених для використання в домашніх і польових умовах.</g:description>
+			<g:link>https://ua.leatherman-ua.shop/item/multitul-leatherman-rebar-black-chehol-831563-22961</g:link>
+			<g:image_link>https://allucardi21.github.io/leatherman_fid/images/42b3df97f33a86d9.jpg</g:image_link>
+			<g:condition>new</g:condition>
+			<g:availability>in stock</g:availability>
+			<g:product_type>Мультитули &gt;</g:product_type>
+			<g:price>5412.00 UAH</g:price>
+			<g:sale_price/>
+			<g:brand>Leatherman</g:brand>
+			<g:mpn>831563</g:mpn>
 			<g:google_product_category>Мультиінструмент</g:google_product_category>
 			<google_product_category>Мультиінструмент</google_product_category>
 			<g:shipping>
